@@ -29,5 +29,5 @@
 <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA20q0wuDig9771TyL9gOd5yzad4R2qNFM&callback=initMap"></script>
 
 <html>
-<div id = 'map'></div>
+<div id = 'map'><p>Hello World!</p></div>
 </html>
